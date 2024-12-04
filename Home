@@ -1,0 +1,19 @@
+<!-- wp:paragraph {"align":"center","placeholder":"Write titleu2026"} -->
+<p class="has-text-align-center"><strong>Coming soon</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:cover {"minHeight":100,"minHeightUnit":"vh","gradient":"horizontal-inverted","isDark":false,"align":"full","className":"is-light"} -->
+<div class="wp-block-cover alignfull is-light" style="min-height:100vh"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-100 has-background-dim has-background-gradient has-horizontal-inverted-gradient-background"></span><div class="wp-block-cover__inner-container"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">LTCM</h2>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"32px"} -->
+<div style="height:32px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center","orientation":"horizontal"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"style":{"color":{"background":"#000000","text":"#ffffff"},"border":{"radius":"50px"}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-text-color has-background wp-element-button" href="mailto:contact@long-termcapitalmanagement.com" style="border-radius:50px;color:#ffffff;background-color:#000000">Get in touch</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div></div>
+<!-- /wp:cover -->
